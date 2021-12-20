@@ -18,13 +18,13 @@ Peguei as tendências e depois
 amplie-as por meio de
 influenciadores
 
-![b2c2](img/b2c2.png)
+![b2c2](img/b2c2.PNG)
 
 Como HiSmile Dominou A Geração Y e passou de um
 pequeno investimento de 20mil para uma potencia de
 ecommerce avaliado em 40 milhões em menos de 3 anos
 
-![b2c](img/b2c.png)
+![b2c](img/b2c.PNG)
 
 Como HiSmile Dominou A
 Geração Y e passou de
@@ -35,14 +35,14 @@ ecommerce avaliado em
 40 milhões em menos de
 3 anos
 
-![b2c3](img/b2c3.png)
+![b2c3](img/b2c3.PNG)
 
 De zero a $ 13 milhões em 12 meses - Estratégia de
 crescimento do **Koala**
 
 1. **Produto**
 
-![Produto](img/Produto.png)
+![Produto](img/Produto.PNG)
 
 Eles se concentram em fazer com que
 seus clientes publiquem uma avaliação online após a compra - Provavelmente é por meio de uma sequência de acompanhamento por
@@ -72,7 +72,7 @@ Google, elas estão no processo de tomar uma decisão de compra
 
 4. **Apoio em sistemas de email Marketing**
 
-![EmailMarketing](img/EmailMarketing.PNG)
+![EmailMarketing](img/EmailMarketing.png)
 
 Os e - mails são uma forma eficaz e de baixo custo de acompanhar os clientes que estão prontos para comprar. Utilizado corretamente (por exemplo, por meio de eventos baseados em tempo e em gatilhos), o
 marketing por e-mail também pode ajudar a levar os clientes a uma decisão de compra.
