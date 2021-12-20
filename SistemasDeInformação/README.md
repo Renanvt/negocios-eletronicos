@@ -52,7 +52,7 @@ ações.
 
 # Recursos do Sistema de Informação
 
-![SistemaDeInformacao](img/SistemaDeInformacao2.png)
+![SistemaDeInformacao2](img/SistemaDeInformacao2.PNG)
 
 # Papéis do Sistema de Informação
 
