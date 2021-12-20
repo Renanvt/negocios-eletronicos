@@ -25,9 +25,9 @@ oferecer o resultado de sua
 saída para ser absorvido e
 consumido pelo meio. 
 
-![SistemaDeInformacao](img/SistemaDeInformaçao.PNG)
+![SistemaDeInformacao](img/SistemaDeInformação.PNG)
 
-![Sistema](img/Sistema.png)
+![Sistema](img/Sistema.PNG)
 
 ### Modelo de um Sistema Empresarial
 
