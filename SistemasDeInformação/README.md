@@ -25,7 +25,7 @@ oferecer o resultado de sua
 saída para ser absorvido e
 consumido pelo meio. 
 
-![SistemaDeInformacao](img/SistemaDeInformação.PNG)
+![SistemaDeInformacao](img/SistemaDeInformacao.PNG)
 
 ![Sistema](img/Sistema.PNG)
 
