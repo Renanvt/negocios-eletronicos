@@ -40,7 +40,7 @@ ecommerce avaliado em
 De zero a $ 13 milhões em 12 meses - Estratégia de
 crescimento do **Koala**
 
-1. **Produto**
+# 1. **Produto**
 
 ![Produto](img/Produto.PNG)
 
@@ -48,7 +48,7 @@ Eles se concentram em fazer com que
 seus clientes publiquem uma avaliação online após a compra - Provavelmente é por meio de uma sequência de acompanhamento por
 e-mail para clientes que compraram recentemente
 
-2. **A oferta**
+# 2. **A oferta**
    
 Ter uma oferta incrível é NECESSÁRIO para
 colocar o produto **nas mãos do maior** **número possível de pessoas** - oferecem US $ 100 de desconto em sua compra
@@ -58,7 +58,7 @@ colocar o produto **nas mãos do maior** **número possível de pessoas** - ofer
 Pense em como colocar seu produto nas mãos de seus clientes para que eles possam experimentá-lo antes de comprá-lo, especialmente se você for uma empresa
 de comércio eletrônico. Quanto mais fácil você fizer para as pessoas, mais você venderá - é simples assim.
 
-3. **A propagando atrativa**
+# 3. **A propagando atrativa**
 
 ![PropagandaAtrativa](img/PropagandaAtrativa.PNG)
 
@@ -70,7 +70,7 @@ Google, elas estão no processo de tomar uma decisão de compra
 
 ![PropagandaAtrativa2](img/PropagandaAtrativa2.PNG)
 
-4. **Apoio em sistemas de email Marketing**
+# 4. **Apoio em sistemas de email Marketing**
 
 ![EmailMarketing](img/EmailMarketing.png)
 
@@ -79,7 +79,7 @@ marketing por e-mail também pode ajudar a levar os clientes a uma decisão de c
 
 O produto é INCRÍVEL; A oferta é FORTE; E o marketing está NO PONTO.
 
-5. **Site**
+# 5. **Site**
 
 Eles têm uma home page, uma única página de
 produto e algumas outras páginas diversas que não são realmente necessárias para fazer a venda - A página inicial e a página do produto são bastante semelhantes.
