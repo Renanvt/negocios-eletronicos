@@ -26,11 +26,11 @@ que trata a **regra de negócios**
 de modo a tornar as
 **operações mais confiáveis.**
 
-![ERP](ERP.PNG)
+![ERP](img/ERP.PNG)
 
 ## Exemplos de Sistemas ERP
 
-![ERP2](ERP2.PNG)
+![ERP2](img/ERP2.PNG)
 
 # CRM – CUSTOMER RELATIONSHIP MANAGEMENT GERENCIAMENTO DO RELACIONAMENTO COM O CLIENTE
 
@@ -48,7 +48,7 @@ o cliente, como:
 
 • Frente de loja
 
-![CRM](CRM.PNG)
+![CRM](img/CRM.PNG)
 
 ## 1. Como um CRM vai economizar meu tempo?
 
@@ -76,7 +76,7 @@ você não precisa repetir o trabalho ou mesmo recortar e colar
 
 # DIFERENÇAS ENTRE SISTEMAS ERP E CRM
 
-![ERPxCRM](ERPxCRM.PNG)
+![ERPxCRM](img/ERPxCRM.PNG)
 
 # SISTEMAS FUNCIONAIS
 
